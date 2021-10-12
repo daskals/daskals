@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @daskals
+- 💻👷: Electronics Engineer, MSc, PhD 
 - 👀 I’m interested in designing hardware and softwate for low power 🔋 telecommunications setups 💻📡.
 - 🌱 I’m currently learning Advanced Design System (ADS) Software.
 - 💞️ I’m looking to collaborate on agricultural 🧑‍🌾 Wireless Sensor Networks.
