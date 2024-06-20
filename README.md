@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daskals 
 - 💻👷: Electronics Engineer, MSc, PhD 
 - 👀 I’m interested in designing hardware and software for low-power 🔋 telecommunication setups 💻📡.
-- 🌱 I’m currently learning FeeCad Software.
+- 🌱 I’m currently learning OpenAI API Coding and Zephyr Project.
 - 💞️ I’m looking to collaborate on agricultural 🧑‍🌾 Wireless Sensor Networks (WSNs) and smart cities WSNs 🌁.
 - 📫 How to reach me: Daskalakispiros@gmail.com
 - ☁ My site: www.daskalakispiros.com 🔥🔥🔥
